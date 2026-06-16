@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Static_miliver5.mscx"/>
+    <rootfile full-path="Excerpts/0_Violin_2/0_Violin_2.mss"/>
+    <rootfile full-path="Excerpts/0_Violin_2/0_Violin_2.mscx"/>
+    <rootfile full-path="Excerpts/1_Violin_1/1_Violin_1.mss"/>
+    <rootfile full-path="Excerpts/1_Violin_1/1_Violin_1.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Violin_2/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Violin_2/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Violin_1/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Violin_1/audiosettings.json"/>
+    </rootfiles>
+  </container>
